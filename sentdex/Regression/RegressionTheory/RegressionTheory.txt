@@ -1,0 +1,20 @@
+Breakdown regression:
+Subset of supervised learning problems
+
+In case there are little to no relations between X and y, linear regression would not be a wise choice
+
+
+/*****************************************************/
+the slope of your graph would be y = mx + b
+
+slope:
+m = [mean(x)*mean(y) - (mean(xy))]/(mean(x)^2 - mean(x^2))
+this would be the most important one i guess
+
+y intercept (b):
+b = mean(y) - m(mean(x))
+/*****************************************************/
+
+now with this we can find the y for the given X :)
+
+that was like...wow simple

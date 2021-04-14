@@ -1,0 +1,21 @@
+Without machine learning, there would be a lot of rules required to solve the problem.
+Example, to differentiate between an apple and an orange, based on their texture and weight.
+For doing this, we can train a classifier.
+
+It is a function that takes data as input and gives labels as output.
+
+Supervised learning:
+providing training data along with labels to the algorithm to learn.
+The algorithm analyzes the training data and produces a function that can now be applied to unlabelled examples.
+  
+there are many types of classifiers:
+artifical neural network
+support vector machine
+lions
+tigers
+bears
+oh my!
+
+There are many data sets provided by the sklearn api itself.
+yey :))
+we are going to use the iris data set for this one.
